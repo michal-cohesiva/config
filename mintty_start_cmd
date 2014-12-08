@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\Git\bin\mintty.exe" --title msysGit --icon "C:\Program Files (x86)\Git\etc\git.ico" --exec "C:\Program Files (x86)\Git\bin\sh.exe" --login -i
